@@ -7,6 +7,9 @@ How to run:
   3. run the install script or install the dependencies manually (see script)
   4. go into a game of runeterra and go into directory where the script lies
   5. run ```python ./decklist.py watch``` 
+  
+  
+Note that twisted_fate via pip is not up to date, will issue it.
 
 To execute the install script enable powershell scripts ('How to run PowerShell script file on Windows 10')
 https://www.windowscentral.com/how-create-and-run-your-first-powershell-script-file-windows-10
